@@ -9,7 +9,7 @@ The objective is to understand weather data through data collected in different 
 
 ## Process followed
 
-### Librairies used
+### Libraries used
 
 - pandas
 - os
